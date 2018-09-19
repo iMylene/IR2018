@@ -1,5 +1,7 @@
-Code for Information Retrieval Course at VU Amsterdam 2017-2018
-===============================================================
+Code for Information Retrieval Course at VU Amsterdam 2018
+==========================================================
+
+**TO BE UPDATED!**
 
 These are six assignments with introductory code and explanations in the form
 of [IPython Notebooks](http://ipython.org/notebook.html) by Paul Groth, derived
